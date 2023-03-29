@@ -19,6 +19,7 @@
 - PyQt6
 - Pandas
 - Pillow
+- Pyinstaller
 
 # 프로그램 실행화면
 
